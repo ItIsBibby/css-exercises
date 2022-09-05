@@ -2,6 +2,9 @@ div {
   background-color: red;
   color: white;
   font-size: 32px;
-  text-aligh: center;
+  text-align: center;
   font-weight: bold;
+}
+* {
+  font-family: sans-serif;
 }
